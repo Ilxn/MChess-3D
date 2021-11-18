@@ -1,5 +1,5 @@
 # MChess-3D
-Projet d'un jeu d'échecs en 3D (Blender + Python)
+jeu d'échecs en 3D 
 
 ### Progression:
 - [x] Modèles 3D
